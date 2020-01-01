@@ -1,0 +1,9 @@
+<?xml version="1.0" eocoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/hello/">
+    <file compressed="true" preprocess="xml-stripblanks">ui/hello.ui</file>
+  </gresource>
+  <gresource prefix="/org/hello/">
+    <file>icons/hello.png</file>
+  </gresource>
+</gresources>
